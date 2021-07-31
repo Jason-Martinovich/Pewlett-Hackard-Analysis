@@ -5,21 +5,18 @@ The purpose of this project is to help managment determine the number of soon to
 ## Results
 With the retirment_titles table we are able to see every eligible employee for retirement and how long they have worked at each position over the course of their career.
 
-The unique_titles table that was created is showing the most recent title for employees of retirment age.
-
-Our retiring_titles shows us the a majority of the employees of retirment age (37,350/90,398 = 41%) have senior titles
-
 ![](retiring_count.png) 
 
-Fig 1: retirement count by titles 
+Fig 1: Our retiring_titles shows us the a majority of the employees of retirment age (37,350/90,398 = 41%) have senior titles
+
 
 ![](unique_titles.png)
 
-Fig 2: employees with their titles
+Fig 2: The unique_titles table that was created is showing the most recent title for employees of retirment age.
 
-This list below is the employees that are elgible for the mentorship program.
 ![](mentorship_list.png)
 
-
+Fig 3: This list is the employees that are elgible for the mentorship program.
 
 ## Summary
+After running this analysis, I found that a little over 90,000 employees are eligible or will be reaching retirement age soon.  It is likely that these employee's will be leaving the company within the next 5 years.  This is a high number of employees that will be leaving a number of positons open.  Management has more than enough currently avaiable employees that are eligible for the mentorship program for the various positons so that they can start looking for candidates to promote within.  If everthing is timed correctly, positions can be filled and new employees trained prior to the senior employees leaving the company for retirement. 
