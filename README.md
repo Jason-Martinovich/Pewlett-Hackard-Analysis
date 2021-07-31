@@ -10,7 +10,8 @@ The unique_titles table that was created is showing the most recent title for em
 Our retiring_titles shows us the a majority of the employees of retirment age (37,350/90,398 = 41%) have senior titles
 
 ![](retiring_count.png) ![](unique_titles.png)
-fig: retirement count by titles   fig: employees with their titles
+
+fig: retirement count by titles       fig: employees with their titles
 
 
 ![](mentorship_list.png)
