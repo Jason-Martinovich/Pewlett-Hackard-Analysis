@@ -11,7 +11,8 @@ Our retiring_titles shows us the a majority of the employees of retirment age (3
 
 ![](retiring_count.png) ![](unique_titles.png)
 
-fig: retirement count by titles       fig: employees with their titles
+fig 1: retirement count by titles      
+fig 2: employees with their titles
 
 
 ![](mentorship_list.png)
