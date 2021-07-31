@@ -1,4 +1,4 @@
---Begin Challenge Assignment
+
 --Deliverable 1
 
 --Creating retirement titles table
@@ -8,7 +8,7 @@ emp.last_name,
 tle.title,
 tle.from_date,
 tle.to_date
---INTO retirement_titles
+INTO retirement_titles
 FROM employees as emp
 Left Join titles as tle
 ON (emp.emp_no = tle.emp_no)
